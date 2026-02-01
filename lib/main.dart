@@ -21,3 +21,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//step1
+// paymentIntentObject create payment intent ( amount , currency)
+//step2
+//init payment sheet ( paymentIntentClientSecret )
+// step3
+// presentPaymentSheet ()
